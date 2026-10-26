@@ -55,24 +55,24 @@ Identifies financial behavior patterns, including:
 
 ## 🛠️ Technologies Used
 
-- Python – Core programming language
-- Pandas – Data cleaning and manipulation
-- NumPy – Numerical calculations and statistical analysis
-- Datetime – Date and time handling
-- Jupyter Notebook / Google Colab – Development environment
-- Exploratory Data Analysis (EDA) – Identifying patterns and insights
+- **Python** – Core programming language
+- **Pandas** – Data cleaning and manipulation
+- **NumPy** – Numerical calculations and statistical analysis
+- **Datetime** – Date and time handling
+- **Jupyter Notebook / Google Colab** – Development environment
+- **Exploratory Data Analysis (EDA)** – Identifying patterns and insights
 
 ## 📂 Project Files
 
-- SpendDNA.ipynb – Jupyter Notebook containing the project code and analysis.
-- rahul_transactions.csv – Synthetic bank and UPI transaction dataset used for analysis.
-- final_report.txt – Text file containing the final financial analytics report, including spending summaries, transaction patterns, anomaly detection results, and key insights.
+- `SpendDNA.ipynb` – Jupyter Notebook containing the project code and analysis.
+- `rahul_transactions.csv` – Synthetic bank and UPI transaction dataset used for analysis.
+- `final_report.txt` – Text file containing the final financial analytics report, including spending summaries, transaction patterns, anomaly detection results, and key insights.
 
 ## ⚙️ How to Run the Project
 
 1. Download or clone this repository.
 2. Open the notebook in Google Colab or Jupyter Notebook.
-3. Upload the rahul_transactions.csv dataset to the notebook environment.
+3. Upload the `rahul_transactions.csv` dataset to the notebook environment.
 4. Ensure the dataset file path in the code matches the uploaded file.
 5. Run all notebook cells in order to perform the financial transaction analysis and view the results.
 
@@ -98,14 +98,15 @@ This project follows the restrictions specified in the project brief.
 - NumPy
 - Datetime
 - String methods
+- Manual statistical calculations
 
 ### Not Allowed
 
 - Machine learning, AI, or GenAI libraries
 - Scikit-learn, SciPy Stats, or Statsmodels
 - Matplotlib, Seaborn, or Plotly
-- Regular expressions using the re module
-- collections.Counter
+- Regular expressions using the `re` module
+- `collections.Counter`
 - Automated data-profiling libraries
 - External transaction-parsing libraries
 
@@ -132,15 +133,15 @@ SpendDNA demonstrates how Python-based data analytics can transform raw financia
 
 ## 👩‍💻 Author
 
-Lakshmidhar N
+**Lakshmidhar N**
 
 ## 📑 Project Information
 
-- Project Name: SpendDNA – Financial Transaction Analytics
-- Project Type: Minor Project
-- Domain: Data Analytics
-- Dataset: Synthetic bank and UPI transaction data (rahul_transactions.csv)
-- Purpose: Academic learning and analysis of financial transactions, spending patterns, expense categories, and unusual transactions.
+- **Project Name:** SpendDNA – Financial Transaction Analytics
+- **Project Type:** Minor Project
+- **Domain:** Data Analytics
+- **Dataset:** Synthetic bank and UPI transaction data (`rahul_transactions.csv`)
+- **Purpose:** Academic learning and analysis of financial transactions, spending patterns, expense categories, and unusual transactions.
 
 ---
 
